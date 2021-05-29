@@ -1,0 +1,17 @@
+{
+  "name": "react-file-upload",
+  "version": "1.0.0",
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "express.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-fileupload": "^1.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node express.js",
+    "localStart": "cd frontend && npm run build && cd .. && node express.js"
+  },
+  "author": "sultanofcardio",
+  "license": "ISC"
+}
